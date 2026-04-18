@@ -1,5 +1,13 @@
-# 💫 About Me:
-• 🔭 I'm currently working on AI-integrated full-stack web applications using Flask & SQL  <br>• 👯 I'm looking to collaborate on AI tools, automation systems & smart web platforms  <br>• 🤝 I'm looking for help with model integration, APIs & scalable AI architectures  <br>• 🌱 I'm currently learning AI/ML concepts, Agentic workflows & intelligent automation  <br>• 💬 Ask me about Python, Flask, JavaScript, AI integrations & full-stack development  <br>• ⚡ Fun fact I enjoy building systems that automate tasks like exams, dashboards & workflows
+# 👩‍💻 About Me:
+
+• 🎓 I'm an IT student at MITS Gwalior with a strong interest in Web Development, Data Analytics & AI-based solutions <br>
+• 🤖 I recently built an AI-based Anti-Scam Chatbot focused on fraud prevention & digital safety <br>
+• 🌐 I develop responsive web applications and user-friendly dashboards using HTML, CSS, JavaScript & Python <br>
+• 📊 I work with data analytics tools like Power BI, Excel, Pandas & Matplotlib for insights and visualization <br>
+• 🛠️ Skilled in Python, C++, SQL, Git, GitHub and modern web development technologies <br>
+• 🚀 Currently learning Data Structures & Algorithms and exploring AI-powered applications <br>
+• 💬 Ask me about Web Development, Python, Data Analytics, AI projects & dashboards <br>
+• ⚡ Fun fact: I enjoy building real-world solutions like chatbots, task managers & analytics dashboards
 
 
 ## 🌐 Socials:
